@@ -9,7 +9,7 @@
     "dev": "nodemon index"
   },
   "keywords": [],
-  "author": "Mariia Khapun",
+  "author": "Mariia Khapun ",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.22"
